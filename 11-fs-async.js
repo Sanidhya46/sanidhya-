@@ -9,7 +9,7 @@ readFile('./content/subfolder/first.txt','utf8', (err, result) => {
         console.log(err)
         return   
     }
-    const first = result;
+    const first = result;   
     readFile('./content/subfolder/first.txt','utf8',(err,result) =>{
         if (err) {
             console.log(err)
