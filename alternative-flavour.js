@@ -4,7 +4,7 @@ const person1 = {
 }
 
 module.exports.items = ('items1', 'items2')
-const person2 = {
+const person2 = {   
     name: 'sanidhya',     
 }
    
