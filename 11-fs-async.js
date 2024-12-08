@@ -4,7 +4,7 @@ const { readFile, writeFile } = require('fs');
 
    //This is commit
 console.log('start')   
-readFile('./content/subfolder/first.txt','utf8', (err, result) => {     
+readFile('./content/subfolder/first.txt','utf8', (err, result) => {       
     if (err) {
         console.log(err)     
         return      
