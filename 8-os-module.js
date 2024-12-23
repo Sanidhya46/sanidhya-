@@ -1,6 +1,6 @@
 const os = require('os');
 
-//Info about current user
+//Info about current user   
 const user = os.userInfo()
 console.log(user);
       
