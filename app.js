@@ -5,7 +5,7 @@ setInterval(() => {
   
 /*const http = require('http');
     
-const server = http.createServer((req,res) => {
+const server = http.createServer((req,res) => {   
    if(req.ulr === '/'){
     res.end('Welcome to our homepage')
    }
