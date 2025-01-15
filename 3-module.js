@@ -6,7 +6,7 @@ const data = require('./alternative-flavour')
 require('./7-mind-gnade')     
      
 console.log(data)   
-
+    
 
    
 sayHi('Susan')
