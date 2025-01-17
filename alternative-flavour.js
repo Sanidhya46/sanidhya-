@@ -3,7 +3,7 @@ const person1 = {
     name: 'bob',   
 }   
 
-module.exports.items = ('items1', 'items2')
+module.exports.items = ('items1', 'items2')    
 const person2 = {   
     name: 'sanidhya',     
 }
