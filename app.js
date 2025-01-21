@@ -9,7 +9,7 @@ const server = http.createServer((req,res) => {
    if(req.ulr === '/'){  
     res.end('Welcome to our homepage')
    }
-   if(req.ulr === '/about'){
+   if(req.ulr === '/about'){    
     res.end('Here is our short history')
    }
    res.end(`
