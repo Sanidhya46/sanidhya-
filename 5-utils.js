@@ -2,5 +2,5 @@ const sayHi = (name) => {
     console.log(`Hello there ${name}`)           
 }   
 //Export default  
-module.exports = say hello       
+module.exports = say hello what is your name 
   
